@@ -1,0 +1,7 @@
+file := FileOpen("./ControlClick.txt", "r")
+
+ClickPoint := file.ReadLine()
+
+MsgBox %ClickPoint%
+
+ControlClick, %ClickPoint%, BlueStacks App Player,,,1

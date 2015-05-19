@@ -1,0 +1,1 @@
+Run "C:\Program Files (x86)\BlueStacks\HD-RunApp.exe" -p com.netmarble.chrono -a com.nway.chrono.MainActivityLauncher
