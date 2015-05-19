@@ -61,7 +61,8 @@ namespace ChronoBladeAuto.AppCode.AutoHotKey
         }
 
         public string 모험 = "x571 y371";
-        public string 모험시작 = "x480 y345";
+        //public string 모험지역선택 = "x480 y345";
+        //public string 모험시작 = "x480 y345";
         public string 공지종료 = "x633 y34";
         public string 출석보상 = "x589 y58";
         public string 네트워크불안정 = "x252 y263";
